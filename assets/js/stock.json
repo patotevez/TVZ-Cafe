@@ -1,0 +1,43 @@
+[{
+  "id": 1,
+  "producto": "Café Espresso",
+  "nombre": "Café Espresso: Se caracteriza por su rápida preparación a una alta presión y por un sabor y textura más concentrados.",
+  "precio": 250,
+  "imagen": "./assets/multimedia/imagenes/cafes/cafeEspresso.jpg"
+},
+{
+  "id": 2,
+  "producto": "Café Cortado",
+  "nombre": "Café cortado: Es un café espresso con una pequeña cantidad de leche, normalmente caliente, para quitarle el amargor al café",
+  "precio": 250,
+  "imagen": "./assets/multimedia/imagenes/cafes/cafeCortado.png"
+},
+{
+  "id": 3,
+  "producto": "Cappucino",
+  "nombre": "Cappucino: El capuccino es una bebida nacida en Italia, preparada con café expreso y leche montada con vapor para darle cremosidad.",
+  "precio": 250,
+  "imagen": "./assets/multimedia/imagenes/cafes/cafeCappucino.jpg"
+},
+{
+  "id": 4,
+  "producto": "Café con leche",
+  "nombre": "Café con leche: El café con leche es una de las bebidas más comunes que incluyen café. Consta básicamente de dos ingredientes: café y leche, con una proporción que varía",
+  "precio": 250,
+  "imagen": "./assets/multimedia/imagenes/cafes/cafeConLeche.jpg"
+},
+{
+  "id": 5,
+  "producto": "Café manchada",
+  "nombre": "Leche manchada: Se trata de un latte macchiato y no un café con leche, donde el café expreso tradicionalmente se añade antes que la leche con lo que no tiene marca",
+  "precio": 300,
+  "imagen": "./assets/multimedia/imagenes/cafes/cafeManchado.webp"
+},
+{
+  "id": 6,
+  "producto": "Café americano",
+  "nombre": "Café americano: El café americano, refiriéndose al café típico que se bebe en los Estados Unidos, es la mezcla de agua caliente y café procesado en una cafetera con filtro de café",
+  "precio": 300,
+  "imagen": "./assets/multimedia/imagenes/cafes/cafeAmericano.webp"
+}
+]
